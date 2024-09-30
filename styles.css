@@ -49,3 +49,12 @@ body {
   font-weight: 500;
   margin-bottom: 12px;
 }
+
+/* Destription Styles */
+.discription {
+    color: hsl(0, 0%, 42%);
+    line-height: 1.5;
+    margin-bottom: 16px;
+}
+
+
