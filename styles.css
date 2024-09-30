@@ -30,3 +30,14 @@ body {
   height: auto;
   border-radius: 8px;
 }
+
+/* Tags Styles */
+.tag {
+  display: inline;
+  background-color: hsl(47, 88%, 63%);
+  color: hslhsl(0, 0%, 7%);
+  font-weight: 500;
+  padding: 4px 12px;
+  border-radius: 12px;
+  margin-bottom: 8px;
+}
