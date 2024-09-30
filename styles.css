@@ -52,13 +52,20 @@ body {
 
 /* Destription Styles */
 .discription {
-    color: hsl(0, 0%, 42%);
-    line-height: 1.5;
-    margin-bottom: 16px;
+  color: hsl(0, 0%, 42%);
+  line-height: 1.5;
+  margin-bottom: 16px;
 }
 
 /* Author Section */
 .author {
-    display: flex;
-    align-items: center;
+  display: flex;
+  align-items: center;
+}
+
+.author img {
+  width: 40px;
+  height: 40px;
+  border-radius: 58%;
+  margin-right: 12px;
 }
