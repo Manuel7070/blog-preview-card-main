@@ -38,10 +38,13 @@ body {
   display: inline-block;
   background-color: hsl(47, 88%, 63%);
   color: hsl(0, 0%, 7%);
-  font-weight: 500;
-  padding: 4px 12px;
-  border-radius: 12px;
+  font-weight: 800;
+  
+  padding: 2px 8px;
+  border-radius: 4px;
   margin-bottom: 12px;
+  margin-top: 12px;
+  
 }
 
 /* Date Styles */
@@ -57,13 +60,15 @@ body {
   color: hsl(0, 0%, 42%);
   line-height: 1.5;
   margin-bottom: 16px;
-  font-size: px;
+  font-size: 16px;
 }
 
 /* Author Section */
 .author {
   display: flex;
   align-items: center;
+  font-weight: 800;
+  margin-top: 20px;
 }
 
 .author img {
@@ -71,6 +76,7 @@ body {
   height: 40px;
   border-radius: 58%;
   margin-right: 12px;
+ 
 }
 
 /* Footer Styles */
