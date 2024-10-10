@@ -51,11 +51,11 @@ main {
 
 /* Date Styles */
 .date {
-  color: hsl(0, 0%, 7%);
-  font-size: 16px;
-  font-weight: 500;
-  margin-bottom: 12px;
-}
+    color: hsl(0, 0%, 7%);
+    font-size: 1rem; /* 16px */
+    font-weight: 500;
+    margin-bottom: 0.75rem; /* 12px */
+  }
 
 /* Destription Styles */
 .description {
