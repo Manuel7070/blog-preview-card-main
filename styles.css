@@ -26,9 +26,9 @@ main {
   box-shadow: 7px 7px 0 rgba(0, 0, 0, 1.3);
   border: 1.3px solid black;
   overflow: hidden;
-  max-width: 375px;
-  font-size: 16px;
-  padding: 20px;
+  max-width: 23.4375rem; /* 375px in rem */
+  font-size: 1rem; /* 16px in rem*/
+  padding: 1.25rem; /* 20px in rem*/
 }
 
 /* card image */
