@@ -44,10 +44,9 @@ main {
   background-color: hsl(47, 88%, 63%);
   color: hsl(0, 0%, 7%);
   font-weight: 800;
-  padding: 8px 9px;
+  padding: 0.5rem; /* 8px*/
   border-radius: 4px;
-  margin-bottom: 14px;
-  margin-top: 14px;
+  margin: 0.875rem 0; /* 14px */
 }
 
 /* Date Styles */
