@@ -59,12 +59,11 @@ main {
 
 /* Destription Styles */
 .description {
-  color: hsl(0, 1%, 57%);
-  line-height: 1.5;
-  margin-bottom: 16px;
-  margin-top: 16px;
-  font-size: 16px;
-}
+    color: hsl(0, 1%, 57%);
+    line-height: 1.5;
+    margin: 1rem 0; /* 16px */
+    font-size: 1rem;
+  }
 
 .title {
   font-size: 22px;
