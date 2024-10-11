@@ -76,6 +76,10 @@ a {
   color: hsl(0, 0%, 7%);
 }
 
+a:hover {
+  text-decoration: underline; /* Optional: to show underline on hover */
+}
+
 /* Author Section */
 .author {
   display: flex;
