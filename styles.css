@@ -103,10 +103,15 @@ footer {
 
 .attribution {
   font-size: 0.75rem; /*12px*/
-  color: hsl(0, 4%, 14%);
+  color: hsl(255, 29%, 30%);
 }
 
 .attribution a:hover {
-  color: hsl(0, 0%, 7%);
+  color: hsla(235, 60%, 35%, 0.946);
+  text-decoration: underline;
+}
+
+.fot {
+  color: blueviolet;
   text-decoration: underline;
 }
