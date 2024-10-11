@@ -88,7 +88,7 @@ main {
 /* Footer Styles */
 footer {
   text-align: center;
-  margin-top: 20px;
+  margin-top: 1.25rem /*20px*/
 }
 
 .attribution {
