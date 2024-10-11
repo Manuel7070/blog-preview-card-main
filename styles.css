@@ -79,10 +79,10 @@ main {
 }
 
 .author img {
-  width: 40px;
-  height: 40px;
+  width: 2.5rem; /* 40px */
+  height: 2.5rem; /* 40px */
   border-radius: 58%;
-  margin-right: 12px;
+  margin-right: 0.75rem; /* 12px */
 }
 
 /* Footer Styles */
