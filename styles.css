@@ -19,6 +19,12 @@ main {
   margin: 0 auto;
 }
 
+h1 {
+  font-size: 1.5rem;
+  margin-bottom: 1.25rem;
+  text-align: center; /* Center the h1 */
+}
+
 /* Card styling */
 .card {
   background-color: hsl(0, 0%, 100%);
