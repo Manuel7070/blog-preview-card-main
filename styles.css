@@ -92,7 +92,7 @@ footer {
 }
 
 .attribution {
-  font-size: 12px;
+  font-size: 0.75rem /*12px*/
   color: hsl(0, 4%, 14%);
 }
 
